@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Z50-GDP")(type "KiCad")(uri "${KIPRJMOD}/Z50-GDP.kicad_sym")(options "")(descr ""))
+  (lib (name "AS6C1008-55PCN")(type "KiCad")(uri "${KIPRJMOD}/AS6C1008_55PCN/AS6C1008-55PCN.kicad_sym")(options "")(descr ""))
+  (lib (name "memory-umc")(type "Legacy")(uri "${KIPRJMOD}/memory-umc.lib")(options "")(descr ""))
+)
