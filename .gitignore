@@ -27,3 +27,7 @@ fp-info-cache
 .DS_Store
 
 Z50-GDP-backups/
+
+*.lck
+
+\#auto_saved_files#
