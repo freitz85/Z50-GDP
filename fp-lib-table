@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name LiNCLogo)(type KiCad)(uri "$(KIPRJMOD)/LiNCLogo.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "LiNCLogo")(type "KiCad")(uri "$(KIPRJMOD)/LiNCLogo.pretty")(options "")(descr ""))
+  (lib (name "Z50-GDP")(type "KiCad")(uri "${KIPRJMOD}/Z50-GDP.pretty")(options "")(descr ""))
 )

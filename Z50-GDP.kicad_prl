@@ -67,11 +67,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Z50IOCard.kicad_prl",
+    "filename": "Z50-GDP.kicad_prl",
     "version": 3
   },
   "project": {
